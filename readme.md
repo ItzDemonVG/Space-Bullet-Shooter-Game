@@ -5,4 +5,4 @@
   
 
 ### Example Game:
-![Game](spacegame.png)
+![Game]
